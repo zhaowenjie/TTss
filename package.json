@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "tsc src/index.ts",
-    "lint": "tsc src/index.ts"
+    "lint": "tsc src/index.ts",
+    "tse:w": "tsc -w"
   },
   "repository": {
     "type": "git",
