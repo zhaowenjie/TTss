@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "ttss",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc src/index.ts",
+    "lint": "tsc src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaowenjie/TTss.git"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "zhaowenjie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaowenjie/TTss/issues"
+  },
+  "homepage": "https://github.com/zhaowenjie/TTss#readme"
+}
